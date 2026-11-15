@@ -48,7 +48,7 @@ The original system was built on ASP.NET Web Forms. I worked on **re-engineering
 
 **Reporting**
 - KPI dashboard with alert-distribution charts, quick actions and recent alerts.
-- System statistics charts and **13 operational and audit reports** (rule effectiveness, false-positive ratio, analyst performance and more), with server-side paging and export to text, Excel and PDF.
+- System statistics charts and **more than a dozen operational and audit reports** (rule effectiveness, false-positive ratio, analyst performance and more), with server-side paging and export to text, Excel and PDF.
 
 **Administration**
 - User creation and maintenance, role and risk-category assignment, account unlock, and password management.
@@ -93,7 +93,7 @@ flowchart LR
 
 ## Scale
 
-- 40+ screens, roughly 18,000 lines of C#, 9,000 lines of Razor markup and 6,000 lines of custom CSS.
+- 40+ screens and tens of thousands of lines of C#, Razor markup and custom CSS.
 
 ## Skills Demonstrated
 
