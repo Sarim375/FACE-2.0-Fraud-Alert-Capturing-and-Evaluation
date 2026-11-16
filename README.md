@@ -24,7 +24,7 @@ The original system was built on ASP.NET Web Forms. I worked on **re-engineering
 
 - Migrated the full application (40+ screens) from Web Forms to ASP.NET Core Razor Pages on .NET 10.
 - Built the analyst investigation workspace and the alert workflow.
-- Integrated the core card system for card lookup and blocking.
+- Integrated the core card system for card lookup and blocking, and external systems through REST APIs.
 - Implemented permission-based security, centralized error handling and structured logging.
 - Delivered the reporting module with Excel and PDF export, plus a new dashboard and themeable UI.
 
@@ -61,6 +61,7 @@ The original system was built on ASP.NET Web Forms. I worked on **re-engineering
 | Framework | ASP.NET Core Razor Pages, .NET 10, C# |
 | Databases | Microsoft SQL Server; IBM i (AS/400) DB2 for the core card system |
 | Data access | ADO.NET with parameterized commands and stored procedures |
+| Integration | REST APIs (JSON) for external systems |
 | Security | Cookie authentication, server sessions, permission-based authorization, image CAPTCHA |
 | Exports | Excel and PDF generation libraries, delimited text |
 | Logging | Serilog with rolling files, plus database exception logging |
@@ -97,7 +98,7 @@ flowchart LR
 
 ## Skills Demonstrated
 
-`C#` · `.NET 10` · `ASP.NET Core Razor Pages` · `Legacy migration (Web Forms)` · `SQL Server` · `Stored procedures` · `IBM i DB2` · `Dependency injection` · `Role-based access control` · `Secure error handling` · `Serilog` · `Reporting and export` · `Highcharts` · `Fraud operations domain`
+`C#` · `.NET 10` · `ASP.NET Core Razor Pages` · `Legacy migration (Web Forms)` · `SQL Server` · `Stored procedures` · `IBM i DB2` · `REST APIs` · `Dependency injection` · `Role-based access control` · `Secure error handling` · `Serilog` · `Reporting and export` · `Highcharts` · `Fraud operations domain`
 
 ---
 
